@@ -1,0 +1,6 @@
+rootProject.name = 'webinar-201803'
+
+include 'webhook'
+include 'processor'
+include 'sender'
+

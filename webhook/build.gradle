@@ -1,0 +1,8 @@
+mainClassName="com.movile.chatclub.webinar.webhook.Main"
+
+dependencies {
+
+    compile "org.springframework:spring-webmvc:4.3.14.RELEASE"
+    compile "org.springframework.boot:spring-boot-starter-jetty:1.5.10.RELEASE"
+
+}

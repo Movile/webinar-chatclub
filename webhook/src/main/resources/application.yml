@@ -1,0 +1,12 @@
+redis:
+    host: localhost
+    port: 6379
+    max-clients: 2
+
+server:
+    port: 8080
+
+facebook:
+    app-id: 1518760638222190
+    secret-key: aab478fd8d3ee8759816617afd27a295
+    verify-token: chatclub-webinar

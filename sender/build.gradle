@@ -1,0 +1,15 @@
+mainClassName="com.movile.chatclub.webinar.sender.Main"
+
+dependencies {
+
+    testCompile 'org.springframework.boot:spring-boot-starter-test:1.5.4.RELEASE'
+
+    // WEB
+    compile "org.springframework:spring-webmvc:4.3.9.RELEASE"
+    compile "org.springframework.boot:spring-boot-starter-thymeleaf:1.5.4.RELEASE"
+    compile "org.springframework.boot:spring-boot-starter-jetty:1.5.4.RELEASE"
+
+    compile "org.apache.httpcomponents:httpclient:4.5+"
+    compile "org.apache.httpcomponents:httpmime:4.5+"
+
+}
